@@ -1,4 +1,4 @@
 docstand:
   codox:
     machine:
-      cpu: 1.0
+      cpu: 0.25
